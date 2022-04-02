@@ -1,0 +1,16 @@
+Fuentes de informacion:
+	Cifras analfabetismo Cundinamarca:
+		https://udistritalfjc.maps.arcgis.com/home/item.html?id=34a207b7a62b4ea68414b91ab2de5d0a
+	Cifras acceso a internet:
+		https://udistritalfjc.maps.arcgis.com/home/item.html?id=974a3f392d7c41d78168b4805ad950e8
+
+Panel de control creado:
+	https://www.arcgis.com/apps/dashboards/4d82bd6c8cce490ea3ff395102d87f48
+	
+	Instrucciones de uso:
+		Para visualizar los datos se debe dar click en el triangulo azul del costado izquierdo del mapa,
+		aqui se concontraran los filtres de viviendas con acceso a internet y porcentaje de analfabetizacion
+		se debe elegir el numero de casos que se desean representa (representara municipios con una cifra
+		menor o igual) Si se desea cambiar la informacion a representar se debe dar click en borrar
+	 
+	
